@@ -1,0 +1,13 @@
+^SAEforestLearner\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^README\.Rmd$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$
+^cran-comments\.md$
+^CRAN-SUBMISSION$
+^src/.*\.o$
+^src/.*\.so$
+^src/.*\.dll$
